@@ -1,4 +1,4 @@
-import { Card } from './components/Banner/Card'
+import { Card } from './components/Card/Card'
 import './App.css'
 
 export const App = () => {
